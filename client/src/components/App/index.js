@@ -7,7 +7,7 @@ import {
 } from 'react-router-dom';
 import * as routes from '../../constants/routes';
 import Home from '../Home';
-import NotFound from '../../NotFound';
+import NotFound from '../NotFound';
 import Login from '../Login';
 import Signup from '../Signup';
 import Navigation from '../Navigation'
